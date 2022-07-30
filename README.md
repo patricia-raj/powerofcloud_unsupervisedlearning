@@ -35,6 +35,10 @@ Used unsupervivsed learning skills into action by clustering cryptocurrencies an
     ![](Images/Total.png)
     
 
-### AWS Sagemaker Deployment <br/>
+### AWS Sagemaker Deployment: <br/>
+
+
+https://user-images.githubusercontent.com/99471693/182002550-8a5dd026-71e9-4ba3-a6e5-5edc9667f7c5.mp4
+
 
 ![](Images/Crypto_Clustering_Deploy_SageMaker.mp4)
