@@ -5,7 +5,7 @@
 Generated a report of what cryptocurrencies are available on the trading market and how they can be grouped using classification.
 Used unsupervivsed learning skills into action by clustering cryptocurrencies and created plots to present the results.
 
-Processing Details:<br/>
+### Processing Details:<br/>
 1) **Data Preprocessing**
      
    ![](Images/Pre-Processing_Step1.png)
@@ -33,4 +33,8 @@ Processing Details:<br/>
 5) Total Tradable Crypto <br/>
     
     ![](Images/Total.png)
+    
 
+### AWS Sagemaker Deployment <br/>
+
+![](Images/Crypto_Clustering_Deploy_SageMaker.mp4)
