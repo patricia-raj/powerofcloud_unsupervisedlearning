@@ -29,4 +29,8 @@ Processing Details:<br/>
    ![](Images/Table_Tradable_Crypto.png)
         
    ![](Images/Altair_Scatter_Plot.png)
+   
+5) Total Tradable Crypto <br/>
+    
+    ![](Images/Total.png)
 
